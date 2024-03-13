@@ -4,10 +4,10 @@ I am making this repo to record the progress I am making on the things that I am
 
 
 
-## Web dev
+## [Web dev](https://github.com/collab-rishi/documenting_journey/tree/main/Web%20dev)
 Week 1 : Target
 
-## DSA
+## [DSA](https://github.com/collab-rishi/documenting_journey/tree/main/DSA)
 Week 1 : Target
 
 
